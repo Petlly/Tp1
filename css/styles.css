@@ -1,0 +1,167 @@
+
+
+table,tr,th{
+
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 75%;
+    margin: auto;
+}
+
+.Nom{
+    text-align: center;
+    color: white;
+}
+
+
+tr:nth-child(1){
+    background-color: black;
+    font-size: 45px;
+}
+
+tr:nth-child(2){
+    background-color: white;
+}
+tr:nth-child(3){
+    background-color: white;
+}
+.monSpanBlock{
+    text-align: left;
+    padding: 25px;
+    background-color: white;
+    font-family: "Verdana", "Times New Roman", serif;
+}
+body{
+    background:linear-gradient(yellow,red, orange);
+    background-size: cover;
+
+}
+tr{
+    background-color: white;
+}
+.text{
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.imagecolor{
+    background-color: white;
+}
+.acteur{
+    background-color: orange;
+}
+
+.backgroundcolor1{
+    background-color: white;
+}
+#Evans{
+    background-image:url("../images/Chris_Evans.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+   }
+
+
+
+#Hemsworth{
+    background-image:url("../images/Chris_Hemsworth.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#Renner{
+    background-image:url("../images/Jeremy_Renner.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#Mark{
+    background-image:url("../images/Mark_Ruffalo.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#Robert{
+    background-image: url("../images/Robert_Downey_Jr..png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#Scarlett{
+    background-image:url("../images/Scarlett_Johansson.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#Tom{
+    background-image: url("../images/Tom_Hiddleston.png");
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+ul{
+    list-style: none;
+}
+
+.Align{
+    text-align: left;
+    font-family: "Verdana", "Times New Roman", serif;
+}
+
+.Align2{
+    text-align: left;
+    color: orange;
+    font-family: "Verdana", "Times New Roman", serif;
+}
+
+.Align3{
+padding-left: 0;
+list-style-position: inside;
+font-family: "Verdana", "Times New Roman", serif;
+}
+
+.Align4{
+    margin-left: 0;
+    padding-left: 0;
+    font-family: "Verdana", "Times New Roman", serif;
+    list-style: disc;
+}
+
+.Autre{
+    font-family: "Verdana", "Times New Roman", serif;
+    list-style: none;
+}
